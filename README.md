@@ -23,7 +23,8 @@ I've worked with:
   - BeautifulSoup
 
 ## Certifications:
-![Jovian Certification](https://jovian.com/certificate/MFQTQOJZGE)
+![certificate (1)](https://github.com/mtsokanlawon/mtsrepositary/assets/109174561/39c166f3-38a3-4466-ae72-39777ac7e515)
+
 ## Projects:
 - Exploratory Data Analysis on 2021 Developers Survey:
 - New York Exploratory Airbnb Data Analysis:![NY AIRBNB](https://github.com/mtsokanlawon/mtsrepositary/assets/109174561/2b10d309-9e74-4127-8af2-4f62bd1b3e84)
