@@ -27,9 +27,8 @@ I've worked with:
 
 ## Projects:
 - Exploratory Data Analysis on 2021 Developers Survey:
-- New York Exploratory Airbnb Data Analysis:![NY AIRBNB](https://github.com/mtsokanlawon/mtsrepositary/assets/109174561/2b10d309-9e74-4127-8af2-4f62bd1b3e84)
-
-- Peak School Students' Engagement and Performance:![_86df5dc8-1bec-4ae2-871a-e0f1296299ba](https://github.com/mtsokanlawon/mtsrepositary/assets/109174561/330553d8-1fc7-4fb0-93a3-22f839ff89b7)
+- New York Exploratory Airbnb Data Analysis:
+- Peak School Students' Engagement and Performance:
 
 - Dashboards:![images (2)](https://github.com/mtsokanlawon/mtsrepositary/assets/109174561/e2a5c208-7d26-4bba-a259-80bdd25c7763)
 
