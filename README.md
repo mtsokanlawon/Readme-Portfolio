@@ -22,6 +22,8 @@ I've worked with:
   - Google Visualization API Query language
   - BeautifulSoup
 
+## Certifications:
+![Jovian Certification](https://jovian.com/certificate/MFQTQOJZGE)
 ## Projects:
 - Exploratory Data Analysis on 2021 Developers Survey:
 - New York Exploratory Airbnb Data Analysis:![NY AIRBNB](https://github.com/mtsokanlawon/mtsrepositary/assets/109174561/2b10d309-9e74-4127-8af2-4f62bd1b3e84)
