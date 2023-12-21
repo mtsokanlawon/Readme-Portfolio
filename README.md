@@ -11,6 +11,7 @@ I have a proficiency in Data Analysis with Python.
 - Google Sheets
 - Github
 - Jupyter notebook
+- Jovian notebook 
   
 ## Programming Experience:
 I've worked with:
@@ -26,9 +27,9 @@ I've worked with:
 ![certificate (1)](https://github.com/mtsokanlawon/mtsrepositary/assets/109174561/39c166f3-38a3-4466-ae72-39777ac7e515)
 
 ## Projects:
-- Exploratory Data Analysis on 2021 Developers Survey:
-- New York Exploratory Airbnb Data Analysis:
-- Peak School Students' Engagement and Performance:
+- [Exploratory Data Analysis on 2021 Developers Survey](https://jovian.com/mtsokanlawon/eda-case-study-1)
+- [New York Exploratory Airbnb Data Analysis](https://jovian.com/mtsokanlawon/ny-airbnb-market-analysis)
+- [Peak School Students' Engagement and Performance](https://jovian.com/mtsokanlawon/academic-and-engagement-performance-analysis)
 
 - Dashboards:![images (2)](https://github.com/mtsokanlawon/mtsrepositary/assets/109174561/e2a5c208-7d26-4bba-a259-80bdd25c7763)
 
