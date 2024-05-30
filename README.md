@@ -1,4 +1,4 @@
-# I am Okanlawon Mercy, a Data scientist.
+# I am Mercy Okanlawon, a Data scientist.
 ![_969ea0d2-71ee-45a9-aedc-4e46731935f2](https://github.com/mtsokanlawon/mtsrepositary/assets/109174561/3808c3ce-b4f6-4568-9b59-2819a6ee3529)
 
 I am passionate about solving problems, as they are given of me with the skills in hand.
